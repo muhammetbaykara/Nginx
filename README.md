@@ -1,7 +1,8 @@
 
 # Nginx
-![Nginx](https://dwglogo.com/wp-content/uploads/2017/09/3630px-Nginx_logo-1024x704.png | width=300)
-![Nginx](https://dwglogo.com/wp-content/uploads/2017/09/Nginx_logo-1024x576.png | width=300)
+<img src="https://dwglogo.com/wp-content/uploads/2017/09/3630px-Nginx_logo-1024x704.png" width="300"/>
+<br/>
+<img src="https://dwglogo.com/wp-content/uploads/2017/09/Nginx_logo-1024x576.png" width="300"/>
 
 ## 1. Nginx Nedir?
 
