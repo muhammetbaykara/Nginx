@@ -26,8 +26,8 @@ Sonuç olarak, Nginx, modern web altyapılarının temel taşlarından biri hali
 Apache HTTP Sunucusu ve Lighttpd, şu anki Nginx alternatifleri arasında yer almaktadır. Nginx, bu alternatiflere kıyasla %400 daha fazla performans sunmakta ve çok daha az CPU kullanmaktadır.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dFTC96_ZB-CYPFfBFUsSsw.jpeg" width="45%" />
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LzYYSJeF--EvjBAwwPgweg.jpeg" width="55%" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dFTC96_ZB-CYPFfBFUsSsw.jpeg" width="40%" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LzYYSJeF--EvjBAwwPgweg.jpeg" width="45%" />
 </div>
 
 
