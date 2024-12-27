@@ -44,7 +44,7 @@ Sağladığı Avantajlar:
 ### 1.1.2 Load Balancing (Yük Dengeleme)
 Yük dengeleme, gelen isteklerin birden fazla sunucuya eşit bir şekilde dağıtılması işlemidir. Bu yöntem, sistemin performansını ve verimliliğini artırarak, aynı zamanda yüksek erişilebilirlik ve hata toleransı sağlar. Yük dengeleme, işlemlerin paralel olarak gerçekleştirilmesini mümkün kılarak, işlem sürelerini kısaltır ve kullanıcı deneyimini iyileştirir.
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*fruOlA7WzZmkrkiCmBf_5Q.png" width="75%" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*fruOlA7WzZmkrkiCmBf_5Q.png" width="50%" />
 
 ## 2. Neden Nginx Kullanılmalı?
 
