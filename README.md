@@ -27,7 +27,7 @@ Apache HTTP Sunucusu ve Lighttpd, şu anki Nginx alternatifleri arasında yer al
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*dFTC96_ZB-CYPFfBFUsSsw.jpeg" width="45%" />
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LzYYSJeF--EvjBAwwPgweg.jpeg" width="45%" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*LzYYSJeF--EvjBAwwPgweg.jpeg" width="55%" />
 </div>
 
 
